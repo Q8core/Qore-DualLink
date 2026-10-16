@@ -2,9 +2,10 @@
 
 **Free · Windows · Linux · one file, no install needed**
 
-<img width="100%" alt="Qore DualLink live view: 16 connections combined into one" src="https://github.com/user-attachments/assets/afad5407-e5fa-42e0-ac71-171fa6ed278c" />
+<img width="2000" height="1130" alt="image" src="https://github.com/user-attachments/assets/634f5607-c97b-46df-9004-df699063e0ed" />
 
-<sub>Live view, with sample speeds shown</sub>
+
+> **Note:** the speeds in the picture are **demo numbers**. In the real world they can be **much higher or lower** — it depends on your connections (how many lines, how fast each one is, and whether they come from different internet sources).
 
 Plug in everything you have: Ethernet (built-in or through a USB adapter or hub), Wi-Fi (built-in or USB), and phones by USB or hotspot. Qore DualLink uses **up to 16 connections at the same time**. Each new connection goes out over the next of your lines, so downloads, updates, download managers and multi-connection speed tests get the **sum** of your lines.
 
@@ -28,7 +29,7 @@ Plug in everything you have: Ethernet (built-in or through a USB adapter or hub)
 
 ## بالعربي
 
-**Qore DualLink** يجمع كل اتصالاتك بالإنترنت في وقت واحد: كيبل، واي فاي، محوّلات USB، والهواتف (حتى 16 اتصالاً). مجاني لويندوز ولينكس، ملف واحد بدون تثبيت. التحميلات تحصل على مجموع سرعات خطوطك عندما تكون من مصادر إنترنت مختلفة.
+**Qore DualLink** يجمع كل اتصالاتك بالإنترنت في وقت واحد: كيبل، واي فاي، محوّلات USB، والهواتف (حتى 16 اتصالاً). مجاني لويندوز ولينكس، ملف واحد بدون تثبيت. الأرقام في الصورة للعرض فقط، والسرعة الحقيقية قد تكون أعلى أو أقل بكثير حسب اتصالاتك. التحميلات تحصل على مجموع سرعات خطوطك عندما تكون من مصادر إنترنت مختلفة.
 
 </div>
 
