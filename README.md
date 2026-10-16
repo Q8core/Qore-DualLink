@@ -33,6 +33,19 @@ Plug in everything you have: Ethernet (built-in or through a USB adapter or hub)
 
 </div>
 
+## More apps by Q8Core
+
+| App | What it does | |
+|---|---|---|
+| [PDF Toolkit Free](https://github.com/Q8core/PDF-Toolkit-Free) | Offline PDF tools + Arabic/English OCR | Free · Windows · Linux |
+| [RouterPilot](https://github.com/Q8core/RouterPilot) | Tune your home router for lower ping | Free · Android |
+| [DeviceDeck](https://q8core.com/app/devicedeck.html) | Mirror & control Android from your PC | Pro · Windows · Linux |
+| [Qore Guardian](https://q8core.com/app/qore-guardian.html) | Keep archive drives clean, whole and repairable | Pro · Windows · Linux |
+| [DriveSync](https://q8core.com/app/drivesync.html) | Mirror, sync & back up drives | Pro · Windows · macOS · Linux |
+| [FolderLock](https://q8core.com/app/folderlock.html) | Encrypt folders with AES-256 | Pro · Windows · macOS · Linux |
+
+**All apps: [q8core.com](https://q8core.com)**
+
 ---
 
 Made by **[Q8Core](https://q8core.com)**. More apps at [q8core.com](https://q8core.com). Free to use; all rights reserved.
