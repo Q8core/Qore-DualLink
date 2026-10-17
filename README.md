@@ -35,14 +35,15 @@ Plug in everything you have: Ethernet (built-in or through a USB adapter or hub)
 
 ## More apps by Q8Core
 
-| App | What it does | |
-|---|---|---|
-| [PDF Toolkit Free](https://github.com/Q8core/PDF-Toolkit-Free) | Offline PDF tools + Arabic/English OCR | Free · Windows · Linux |
-| [RouterPilot](https://github.com/Q8core/RouterPilot) | Tune your home router for lower ping | Free · Android |
-| [DeviceDeck](https://q8core.com/app/devicedeck.html) | Mirror & control Android from your PC | Pro · Windows · Linux |
-| [Qore Guardian](https://q8core.com/app/qore-guardian.html) | Keep archive drives clean, whole and repairable | Pro · Windows · Linux |
-| [DriveSync](https://q8core.com/app/drivesync.html) | Mirror, sync & back up drives | Pro · Windows · macOS · Linux |
-| [FolderLock](https://q8core.com/app/folderlock.html) | Encrypt folders with AES-256 | Pro · Windows · macOS · Linux |
+| App | Why it's worth it | Runs on | Price |
+|---|---|---|---|
+| [**DeviceDeck**](https://q8core.com/app/devicedeck.html) | **Control your PC from your phone** — share your Windows/Linux desktop to any phone, tablet or computer browser and use it like you're sitting there. No internet, no accounts: cable, same Wi-Fi or hotspot. It also mirrors your Android on the PC (mouse = touch, keyboard types), installs APKs by drag-and-drop and records the screen | Windows · Linux (+ phone app, no Play Store needed) | $9.99 once |
+| [**PDF Toolkit Free**](https://github.com/Q8core/PDF-Toolkit-Free) | Every PDF tool + offline Arabic & English OCR, 3 results a day | Windows · Linux · Android | **Free** |
+| [**Qore Guardian**](https://q8core.com/app/qore-guardian.html) | Your backup drives, guarded: fingerprints every file, tells you **exactly what changed, went missing or got damaged** the next time you plug the drive in, and **rebuilds damaged or deleted files byte-for-byte**. Catches USB worms and scans with ClamAV, offline | Windows · Linux | $29.99 once |
+| [**DriveSync**](https://q8core.com/app/drivesync.html) | Mirror or back up whole drives with a **preview of every change before it happens** and an optional hash check that catches silently corrupted copies | Windows · macOS · Linux · Raspberry Pi | $4.99 once |
+| [**FolderLock**](https://q8core.com/app/folderlock.html) | Lock any folder into **one AES-256 encrypted file** with your password — it proves the locked copy opens before it deletes the original, so nothing is lost | Windows · macOS · Linux · Raspberry Pi | $4.99 once |
+| [**RouterPilot**](https://github.com/Q8core/RouterPilot) | **Lower ping** in PUBG Mobile, Free Fire and CoD: finds the fastest DNS and the best 4G/5G bands for your router, with a live game-ping mode | Android | **Free** |
+| [**CodeForge**](https://q8core.com/app/codeforge.html) | Learn **Python and Bash from zero to expert** — 1,008 lessons in 78 tracks, with a built-in editor that runs **real** Python and Bash on your own device, fully offline | Windows · Linux · Android | $14.99 once |
 
 **All apps: [q8core.com](https://q8core.com)**
 
